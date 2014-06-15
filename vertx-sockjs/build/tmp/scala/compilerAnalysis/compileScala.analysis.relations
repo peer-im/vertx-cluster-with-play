@@ -1,0 +1,49 @@
+products:
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle$$anonfun$1.class
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle$$anonfun$start$1.class
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle$$anonfun$start$2$$anonfun$apply$1.class
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle$$anonfun$start$2.class
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle$$anonfun$start$3$$anonfun$apply$2.class
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle$$anonfun$start$3$$anonfun$apply$3.class
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle$$anonfun$start$3.class
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle$$anonfun$start$4.class
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle$$anonfun$start$5.class
+   src/main/scala/verticles/ConnVerticle.scala -> build/classes/main/verticles/ConnVerticle.class
+   src/main/scala/verticles/SocketJsServer.scala -> build/classes/main/verticles/SocketJSServer$$anonfun$1.class
+   src/main/scala/verticles/SocketJsServer.scala -> build/classes/main/verticles/SocketJSServer$$anonfun$start$1$$anonfun$apply$1.class
+   src/main/scala/verticles/SocketJsServer.scala -> build/classes/main/verticles/SocketJSServer$$anonfun$start$1$$anonfun$apply$2.class
+   src/main/scala/verticles/SocketJsServer.scala -> build/classes/main/verticles/SocketJSServer$$anonfun$start$1$$anonfun$apply$3.class
+   src/main/scala/verticles/SocketJsServer.scala -> build/classes/main/verticles/SocketJSServer$$anonfun$start$1$$anonfun$apply$4.class
+   src/main/scala/verticles/SocketJsServer.scala -> build/classes/main/verticles/SocketJSServer$$anonfun$start$1.class
+   src/main/scala/verticles/SocketJsServer.scala -> build/classes/main/verticles/SocketJSServer.class
+binary dependencies:
+   src/main/scala/verticles/ConnVerticle.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/verticles/ConnVerticle.scala -> /Users/macbookpro/.gradle/caches/modules-2/files-2.1/io.vertx/lang-scala/1.0.0/7cbb5ecb2e2bc92c25afa2ac4cfaedf65e687eef/lang-scala-1.0.0.jar
+   src/main/scala/verticles/ConnVerticle.scala -> /Users/macbookpro/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.4/9aae4cb1802537d604e03688cab744ff47b31a7d/scala-library-2.10.4.jar
+   src/main/scala/verticles/ConnVerticle.scala -> /Users/macbookpro/.m2/repository/io/vertx/vertx-core/2.1RC3/vertx-core-2.1RC3.jar
+   src/main/scala/verticles/SocketJsServer.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/verticles/SocketJsServer.scala -> /Users/macbookpro/.gradle/caches/modules-2/files-2.1/io.vertx/lang-scala/1.0.0/7cbb5ecb2e2bc92c25afa2ac4cfaedf65e687eef/lang-scala-1.0.0.jar
+   src/main/scala/verticles/SocketJsServer.scala -> /Users/macbookpro/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.4/9aae4cb1802537d604e03688cab744ff47b31a7d/scala-library-2.10.4.jar
+   src/main/scala/verticles/SocketJsServer.scala -> /Users/macbookpro/.m2/repository/io/vertx/vertx-core/2.1RC3/vertx-core-2.1RC3.jar
+source dependencies:
+
+external dependencies:
+
+class names:
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle$$anonfun$1
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle$$anonfun$start$1
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle$$anonfun$start$2
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle$$anonfun$start$2$$anonfun$apply$1
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle$$anonfun$start$3
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle$$anonfun$start$3$$anonfun$apply$2
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle$$anonfun$start$3$$anonfun$apply$3
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle$$anonfun$start$4
+   src/main/scala/verticles/ConnVerticle.scala -> verticles.ConnVerticle$$anonfun$start$5
+   src/main/scala/verticles/SocketJsServer.scala -> verticles.SocketJSServer
+   src/main/scala/verticles/SocketJsServer.scala -> verticles.SocketJSServer$$anonfun$1
+   src/main/scala/verticles/SocketJsServer.scala -> verticles.SocketJSServer$$anonfun$start$1
+   src/main/scala/verticles/SocketJsServer.scala -> verticles.SocketJSServer$$anonfun$start$1$$anonfun$apply$1
+   src/main/scala/verticles/SocketJsServer.scala -> verticles.SocketJSServer$$anonfun$start$1$$anonfun$apply$2
+   src/main/scala/verticles/SocketJsServer.scala -> verticles.SocketJSServer$$anonfun$start$1$$anonfun$apply$3
+   src/main/scala/verticles/SocketJsServer.scala -> verticles.SocketJSServer$$anonfun$start$1$$anonfun$apply$4

@@ -1,0 +1,14 @@
+{
+	"port": 8081,
+    "host": "0.0.0.0",
+    "inbound_permitted": [{"address": "eb.echo"}],
+	"outbound_permitted": [{"address": "eb.echo"}],
+	"sjs_config": {
+		"prefix": "/eventbus"
+	},
+	"bridge_config": {
+		"ping_interval": 5000,
+        "auth_timeout": 300000
+	}
+}
+

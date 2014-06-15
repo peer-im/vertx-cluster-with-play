@@ -1,0 +1,20 @@
+{
+  // Scala verticle
+  "main": "scala:verticles.SocketJSServer",
+
+  "description":"Vertx sockjs",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "Peer.im",
+
+  // Optional fields
+  "developers": ["Angelo", "Johnson"],
+  "keywords": ["messenger", "enterprise"],
+  "homepage": "https://vertx.io"
+
+  // module dependencies
+  // deploys: Contains a comma separated list of the modules that this module deploys at runtime. Optional.
+  // includes: Including a module means the included modules classloaders are added as parents of the including module class loader.
+  // "deploys": "io.vertx~mod-redis~1.1.4-SNAPSHOT"
+  // "deploys": "com.goodow.realtime~realtime-channel~0.5.5-SNAPSHOT,io.vertx~mod-redis~1.1.4-SNAPSHOT"
+  // "includes": "io.vertx~mod-redis-client~1.1.4-SNAPSHOT,com.goodow.vertx~mod-guice~1.0.0-beta1"
+}
