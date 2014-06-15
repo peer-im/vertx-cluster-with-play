@@ -12,8 +12,9 @@
 =========
 
 $ vi $VERTX_HOME/conf/logging.properties
-
-    com.hazelcast.level = INFO
+    
+	org.vertx.level = FINER
+    com.hazelcast.level = INFO	
 
 $ vi $VERTX_HOME/conf/cluster.xml
 
@@ -22,7 +23,7 @@ $ vi $VERTX_HOME/conf/cluster.xml
         <multicast-port>54327</multicast-port>
     </multicast>
     <tcp-ip enabled="false">
-        <interface>192.168.133.141</interface>
+        <interface>192.168.1.28</interface>
     </tcp-ip>
 
 $ git clone https://github.com/fmasion/playVertX
